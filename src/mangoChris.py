@@ -88,6 +88,6 @@ def manga_downloader(titolo):
     print("per favore se hai tempo dai un'occhiatina al mio github")
     print("https://github.com/christianostoni")
 
-print('\n\t\tbenvenuti su mangoChris\t\t')
+print('\n\t\tbenvenuti su mangaChris\t\t')
 titolo = input('inserisci il nome del manga che desideri scaricare: ')
 manga_downloader(titolo)
