@@ -1,5 +1,5 @@
 # mangaChris
-mangoChris è un semplice tool per scaricare manga
+mangaChris è un semplice tool per scaricare manga
 # come usarlo?
 Per utilizzarlo, basterà scaricare l'eseguibile situante nella sezione releases, al termine dell'installazione il vostro software sarà pronto per l'uso per scaricare ciò che vorrete! Per il momento l'esguibile è solo per windows 10
 # ATTENZIONE
